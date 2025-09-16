@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  text-align: center;
+  margin: 20%;
+  padding: 20px;
+  border: 2px solid black;
+  box-shadow: 10px 8px 15px 5px rgb(1, 1, 1);
+  width: 400px;
+  height: 500px;
+}
+h1{
+  padding: 20px;
+  color: red;
+  font-size: 30px;
+
+}
+input{
+  padding: 5px;
+  border-radius: 4px;
+}
+h2{
+  padding: 20px;
+  text-decoration: underline;
+}
+
+.text{
+  padding: 0 0 0 20px;
+}
+button{
+  color: red;
+  background-color: violet;
+  padding: 5px;
+  border-radius: 10px;
+}
+#rollList{
+  margin: 0 0 0 40px;
+}
+
+.shadow{
+  width: 90%;
+  border: 2px solid black;
+}
